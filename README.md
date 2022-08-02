@@ -1,2 +1,2 @@
-# CTFs
-this rep would be dedicated to writeups for ctfs i join
+#CTFs
+this rep is dedicated to writeups for ctfs i join

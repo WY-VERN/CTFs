@@ -1,4 +1,5 @@
 # cerial 01
+
 we are given this file : cerial01: ELF 32-bit
 bo the thig i had in mind was to run strings first .. couldn't find much ofc..
 next i run in ghidra the file through GHidra
